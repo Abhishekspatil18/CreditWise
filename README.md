@@ -46,5 +46,3 @@ pip install -r requirements.txt
 ## Evaluation
 The notebook evaluates models using accuracy, precision, recall, F1-score, and confusion matrices.
 
-## Disclaimer
-This project is for educational purposes only. Its predictions should not be used as the sole basis for real-world lending decisions.
